@@ -1,0 +1,395 @@
+.nav {
+    height: 80px;
+    background-color: rgb(138, 80, 32);
+    display: flex;
+}
+
+#l1 {
+
+    width: 150px;
+    height: 70px;
+    margin-left: 0%;
+}
+
+#l2 {
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 40px;
+    font-family: cursive;
+
+}
+
+.lo1{
+width: 180px;
+height: 80px;
+
+}
+
+
+
+
+.q1 {
+
+    height: 850px;
+    background-image: url("./img/jessica-lewis-BZw2fWK-9lo-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.col {
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.col a {
+    color: black;
+    text-decoration: none;
+    padding: 40px;
+    font-size: 19px;
+    font-family: inherit;
+
+
+}
+
+
+.row9{
+    color: black;
+    text-decoration: none;
+    padding: 40px;
+    font-size: 17px;
+    font-family: inherit;
+    margin-top: -20px;
+    margin-right: -33px;
+
+
+}
+/* HOVER */
+
+.l2:hover {
+    background-color: brown;
+    color: white;
+
+}
+
+.ro1:hover {
+
+    color: white;
+    background-color: brown;
+}
+
+.ro2:hover {
+
+    color: white;
+    background-color: brown;
+}
+
+.ro3:hover {
+
+    color: white;
+    background-color: brown;
+}
+
+.ro4:hover {
+
+    color: white;
+    background-color: brown;
+}
+
+
+
+h2 {
+    color: rgb(138, 80, 32);
+    text-align: right;
+    padding-top: 290px;
+    padding-right: 85px;
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(138, 80, 32);
+    text-align: right;
+    padding-right: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p1 {
+
+    padding-right: 194px;
+
+
+
+}
+
+.w2 {
+
+    color: rgb(138, 80, 32);
+    text-align: right;
+    padding-top: 110px;
+    padding-right: 85px;
+    font-size: 55px;
+}
+
+
+
+
+
+
+
+
+
+.i2 {
+
+
+    width: 150px;
+    margin-left: 1060px;
+    margin-top: -178px;
+
+}
+
+.i3 {
+
+    width: 150px;
+    margin-left: 1220px;
+
+    margin-top: -224px;
+
+}
+
+.col2 {
+    padding-right: 0%;
+    margin-right: 10px;
+}
+
+
+.img1 {
+
+    width: 200px;
+    height: 300px;
+}
+
+.img2 {
+
+
+    width: 200px;
+    height: 300px;
+}
+
+.img3 {
+
+
+    width: 200px;
+    height: 300px;
+}
+
+
+
+.div1 {
+    margin-right: auto;
+    text-align: right;
+    margin-right: 250px;
+    font-size: 17px;
+    color: rgb(138, 80, 32);
+
+
+
+}
+
+button:hover {
+
+    background-color: brown;
+    color: white;
+}
+
+button {
+
+    border-radius: 10px;
+    background-color: white;
+    color: brown;
+    margin-left: 1050px;
+
+}
+
+
+.ba {
+    height: 850px;
+    background-image: url("./img/mohammad-hosein-qaedi-n2VHpPeGupc-unsplash\(1\).jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+H4 {
+
+    font-size: 40PX;
+    padding-top: 200PX;
+    margin-left: 60PX;
+    color: rgb(138, 80, 32);
+}
+
+.mai {
+
+    margin-left: 175px;
+}
+
+
+.cap {
+
+    height: 300px;
+    width: 210px;
+    border: 3px white solid;
+
+
+
+}
+
+.cai {
+    height: 300px;
+    width: 210px;
+    margin-top: -179px;
+    margin-left: 575px;
+
+}
+
+
+
+.lai {
+
+    height: 300px;
+    width: 210px;
+    margin-top: -179px;
+    margin-left: 900px;
+}
+
+
+
+.lat {
+
+    height: 300px;
+    width: 210px;
+    border: 3px white solid;
+    margin-top: -120px;
+
+}
+
+.esi {
+
+    height: 300px;
+    width: 210px;
+    margin-top: -179px;
+    margin-left: 1065px;
+    padding-bottom: 10px;
+}
+
+.cap:hover {
+    background-color: aqua;
+    color: brown;
+}
+
+.esp {
+
+    height: 300px;
+    width: 210px;
+    border: 2px white solid;
+    margin-top: -365px;
+}
+
+/* img{
+
+    height: 150px;
+    width: 210px;
+    margin-top: -105px;
+    margin-left: 100px;
+} */
+
+h5 {
+    color: white;
+    text-align: center;
+}
+
+
+
+
+.par{
+width: 1050px;
+height: 500px;
+    
+    margin-right: 10px;
+    padding-right: 450px;
+    text-align: :justify
+}
+
+
+h3 {
+
+    color: rgb(138, 80, 32);
+   
+    padding-top: 240px;
+    padding-right: 245px;
+    font-size: 55px;
+    margin-top: -230px;
+    margin-left: 920px;
+}
+
+#p7{
+    padding-right: 100px;
+    margin-right: 100px;
+}
+
+#k5{
+
+    text-align: center;
+}
+
+#k4{
+width: 765px;
+margin-left: 700px;
+text-align: center;
+margin-top: 3%;
+padding-top: 0%;
+
+}
+
+
+.fot{
+
+background-color: rgb(138, 80, 32);
+
+padding-left: 130px;
+
+
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+h6{
+
+    font-size: 30px;
+}
+
+.buy{
+margin-top: 30px;
+    margin-left: 70px;
+}
+
+.q2{
+    background-image: url("./img/mike-kenneally-zlwDJoKTuA8-unsplash.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 1000px;
+}
+
+
+
